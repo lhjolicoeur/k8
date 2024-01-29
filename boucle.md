@@ -10,19 +10,19 @@ Supprime le bloc ``||basic:toujours||``.
 
 ## Étape 3
 
-Ajoute le bloc ``||loops:repeat 5 times||``
+Ajoute le bloc ``||loops:répéter||`` dans le bloc ``||basic:au démarrage||``.
 
-
+Ajuste le nombre de répétitions à 5. 
 
 ## Étape 3
 
-Ajoute le bloc ``||basic:montrer LEDs||`` dans le bloc ``||basic:au démarrage||``.
+Ajoute le bloc ``||basic:montrer LEDs||`` dans le bloc ``||loops:répéter||``.
 
 Dessine une flèche vers le bas dans le bloc ``||basic:montrer LEDs||``.
 
 ## Étape 4
 
-Ajoute le bloc ``||motion:conduire tout droit vitesse : 0||`` sous le bloc ``||basic:montrer LEDs||``.
+Ajoute le bloc ``||motion:conduire tout droit vitesse : 0||`` sous le bloc ``||loops:répéter||``.
 
 Ajuster la vitesse à 50. 
 
