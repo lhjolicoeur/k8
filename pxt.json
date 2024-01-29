@@ -12,7 +12,8 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "avancer-arreter.md"
+        "avancer-arreter.md",
+        "boucle.md"
     ],
     "testFiles": [
         "test.ts"

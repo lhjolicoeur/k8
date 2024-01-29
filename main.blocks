@@ -1,13 +1,13 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="QZF*!S@i^D9L%U1NHuZT" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="E%2mU2DFGeYMg$P!M9Ig"><field name="LEDS">`
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="Uu9P*Pk#~T,Pdx3$(y#Y" x="42" y="112"><statement name="HANDLER"><block type="controls_repeat_ext" id="-~]K%{!D2.w3tr0d8n/o"><value name="TIMES"><shadow type="math_whole_number" id="V-qD+Kv3lZ2^nkhyTKpa"><field name="NUM">5</field></shadow></value><statement name="DO"><block type="device_show_leds" id="m,`0X!mD}|24[EWE?sU+"><field name="LEDS">`
         . . # . . 
         . . # . . 
         # . # . # 
         . # # # . 
         . . # . .
-        `</field><next><block type="motion_drive_straight" id=":#DDTu5!)Y~]]-!F9hG+"><value name="speed"><shadow type="math_number_minmax" id="Ld[Bh}FKhM)o74G{c8OI"><mutation min="-100" max="100" label="Number" precision="0"></mutation><field name="SLIDER">50</field></shadow></value><next><block type="device_show_leds" id="p/-D!OdPMlJc3ph~pjdx"><field name="LEDS">`
+        `</field><next><block type="motion_drive_straight" id="a%psGkn{G_;CJ+kY:bMn"><value name="speed"><shadow type="math_number_minmax" id="=*.Rwqd/%bvH_#)Z,W4#"><mutation min="-100" max="100" label="Speed" precision="0"></mutation><field name="SLIDER">50</field></shadow></value></block></next></block></statement><next><block type="device_show_leds" id="t2iE29tmgb;y;%xgKbYw"><field name="LEDS">`
         # . . . # 
         . # . # . 
         . . # . . 
         . # . # . 
         # . . . #
-        `</field><next><block type="motion_stop" id="L/88SVg^{+u`.n+v?Xd#"></block></next></block></next></block></next></block></statement></block></xml>
+        `</field><next><block type="motion_stop" id="mgRC}b*$u?_-W{woSmXd"></block></next></block></next></block></statement></block></xml>
