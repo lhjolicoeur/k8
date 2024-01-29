@@ -1,6 +1,9 @@
 
 > Ouvrir cette page à [https://lhjolicoeur.github.io/k8/](https://lhjolicoeur.github.io/k8/)
 
+## Tutoriels
+*[Visualiser le tutoriel boucle](/k8/boucle)
+
 ## Utiliser comme extension
 
 Ce dépôt peut être ajouté en tant qu'**extension** dans MakeCode.
