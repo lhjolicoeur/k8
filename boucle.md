@@ -1,6 +1,6 @@
 # boucle avancer-arreter
 
-##  Étape 1
+## Étape 1
 
 Ajoute l'extension k8.
 
